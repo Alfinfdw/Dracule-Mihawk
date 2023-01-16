@@ -9,15 +9,15 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //===> SESUAIKAN DENGAN KEBUTUHAN MU
-global.ownerNumber = ['6285609233482','6285609233482'] //Ganti Jadi Nomer mu Biar Fitur Ownernya Bisa Dipake
-global.Rowner = '6285609233482' //Owner Utama
-global.ownerName = 'Nzrl Afndi' //Ganti Jadi Namamu
-global.packname = 'Subscribe YT' //Ganti Jadi Nama Botmu
-global.author = 'NZRLAFNDI' //Ganti Jadi Namamu
+global.ownerNumber = ['6285608468994','6285608468994'] //Ganti Jadi Nomer mu Biar Fitur Ownernya Bisa Dipake
+global.Rowner = '6285608468994' //Owner Utama
+global.ownerName = 'DivanXd' //Ganti Jadi Namamu
+global.packname = 'DivanXd' //Ganti Jadi Nama Botmu
+global.author = 'DivanXd' //Ganti Jadi Namamu
 global.prefa = ['','.','#','!'] //Ilangin Prefix Yang '' Kalau Gamau No Prefix
 global.sessionName = 'sesi' //Saran Gausah Diganti Lagi
-global.webme = 'https://linktr.ee/NzrlAfndi' //Ganti Jadi Bebas Web Sosmed Mu
-global.sosmed = 'https://www.instagram.com/_nzrlafndi' //Ganti Jadi Web Sosmed Mu
+global.webme = 'https://linktr.ee/DivanXd' //Ganti Jadi Bebas Web Sosmed Mu
+global.sosmed = 'https://www.instagram.com/DivanXd' //Ganti Jadi Web Sosmed Mu
 
 //====> SARAN GAUSAH DIGANTI SIH DAH PAS SEMUA
 global.limitAwal = {
